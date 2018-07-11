@@ -28,7 +28,7 @@ Using ES6, React, MDB-Bootstrap, CSS Animation, PixiJS, MongoDB, B-Crypt, Node, 
 
 ## Team Effort
 
-Ifra and Shaughn worked on the user interface - from conception and planning, creating templates, design,and branding. Tanner made general page layouts, some front-end work, bridged the backend/frontend together via routing, transferred database data to the app, finsihed the API routing, created a working comment section for each project page, and created the functionality for donating. Kevin established our folder structure for our project, worked on API routing, created the database and dummy data, linked the database properly throughout our folder structure, logIn/signUp and other backend functionality.
+Ifra and Shaughn worked on the user interface - from conception and planning, creating templates, design,and branding. They primarily worked on the front-end code using React, Bootstrap,PixiJs and CSS Animation. Tanner did some front-end work, bridged the backend/frontend together via routing, transferred database data to the app, finsihed the API routing, created a working comment section for each project page, and created the functionality for donating. Kevin established our folder structure for our project, worked on API routing, created the database and dummy data, linked the database properly throughout our folder structure, logIn/signUp and other backend functionality.
 
 ![alt-text](client/src/Assets/homePage-screenShot6.JPG)
 
