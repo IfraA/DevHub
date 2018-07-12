@@ -71,7 +71,7 @@ class Project extends React.Component {
         <div className="project jumbotron">
           <div className="container">
             <div className="row devHub-carousel">
-              <div className="carousel col-sm-7">
+              <div className="carousel">
                 {/* --carousel-- */}
                 <div
                   id="carouselExampleControls"
@@ -130,7 +130,7 @@ class Project extends React.Component {
                     </a>
                   </div>
                 </div>
-                <div className="container-fluid">
+                <div id="project-text" className="container-fluid">
                   <h1 className="name">
                     <strong>{this.state.users.name}</strong>
                   </h1>
